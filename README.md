@@ -52,6 +52,8 @@ Telegram  ──►  Zone2 bot (Telegram Serverless, JavaScript)
 - [ ] Weekly adaptive plan based on performance and goal
 - [ ] `/undo` and editing of scheduled workouts
 
+Full details: [Privacy Policy](PRIVACY.md).
+
 ## Contact
 
 Developer: `<your name>` · `<contact email>` · `<website or GitHub profile>`
